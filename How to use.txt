@@ -1,0 +1,6 @@
+Put your tokens in the tokens.txt
+Put your proxies in the proxies.txt
+
+If you have neither of them just run start.bat
+If start.bat does not work open Reporter.pyw with python
+https://www.python.org/downloads/
